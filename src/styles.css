@@ -1,0 +1,17 @@
+/* Add application styles & imports to this file! */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* @import "~@angular/material/prebuilt-themes/deeppurple-amber.css"; */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+
+body { 
+  margin: 0;
+}
