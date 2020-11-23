@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   firebase: {
     apiKey: "AIzaSyCBxqCumEOP1GR53xUqCuwCOIqDpv6g_dw",
-    authDomain: "ng-d656e-d626e.firebaseapp.com",
+    authDomain: "ng-d656e-d656e.firebaseapp.com",
     databaseURL: "https://ng-d656e-d626e.firebaseio.com",
     projectId: "ng-d656e-d626e",
     storageBucket: "ng-d656e-d626e.appspot.com",
